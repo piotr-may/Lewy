@@ -1,2 +1,2 @@
-# ObojetniaNazwa
+# Lewy
 Zadanie
